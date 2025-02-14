@@ -19,8 +19,6 @@ Here will be a series of instructions for anyone who wants to run my code. Even 
 
 ### 🔧 Install
 
-Diga como essa etapa será:
-
 ```
 git clone https://github.com/dbdev8000/Calculator-Csharp.git
 ```
