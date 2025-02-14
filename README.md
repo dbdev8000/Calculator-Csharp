@@ -1,2 +1,2 @@
 # C# Calculator 
-### para rodar meu projeto basta usar o .NET 6 ou superior, clonar meu projeto do github e executar com dotnet run o projeto usando algum editor de texto ou uma IDE.
+### To run my project, simply use .NET 6 or higher, clone my project from GitHub, and execute it with dotnet run using any text editor or IDE.
